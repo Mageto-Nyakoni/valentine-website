@@ -1,11 +1,11 @@
-# 💝 Valentine's Day Website 2025 💝
+# Valentine's Day Website 2026 
 
 [![Stars](https://img.shields.io/github/stars/End2EndAI/valentine-website-2025?style=social)](https://github.com/End2EndAI/valentine-website-2025/stargazers)
 [![Fork](https://img.shields.io/github/forks/End2EndAI/valentine-website-2025?style=social)](https://github.com/End2EndAI/valentine-website-2025/fork)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Tweet](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FEnd2EndAI%2Fvalentine-website-2025)](https://twitter.com/intent/tweet?text=%F0%9F%92%9D%20Create%20your%20own%20Valentine%27s%20website%20for%20free%21%20No%20coding%20required%21%0A%F0%9F%8E%81%20Fully%20customizable%2C%20easy%20to%20deploy%20with%20your%20own%20website%20name%0A%E2%9C%A8%20Try%20it%20now%3A%20https%3A%2F%2Fgithub.com%2FEnd2EndAI%2Fvalentine-website-2025%0A%23ValentinesDay2025%20%23WebDev%20%23GitHub%20%23Love)
 
-A beautiful, interactive Valentine's Day website generator to ask your special someone to be your Valentine! Create your own personalized version in minutes. Perfect for Valentine's Day 2025! 💝
+A beautiful, interactive Valentine's Day website generator to ask your special someone to be your Valentine! Create your own personalized version in minutes. Perfect for Valentine's Day 2026! 💝
 
 🌟 **[Live Demo](https://end2endai.github.io/valentine-website-2025)** | 🚀 **[Quick Start](#-quick-start-guide)** | 🌐 **[Deploy Your Website](#4-make-it-live-get-your-online-website-url)**
 
@@ -18,45 +18,6 @@ Help others find this project:
 - 📢 Share on your social media
 - 📱 Show your creation to friends
 
-### 📣 Share on Social Media
-
-Ready-to-use messages for sharing:
-
-**Twitter/X**
-```
-💝 Create your own Valentine's website for free! No coding required!
-🎁 Fully customizable, easy to deploy with your own website name
-✨ Try it now: https://github.com/End2EndAI/valentine-website-2025
-#ValentinesDay2025 #WebDev #GitHub #Love
-```
-
-**Instagram/Facebook**
-```
-💝 Make Valentine's Day 2025 unforgettable!
-Create your own interactive Valentine's website in minutes - completely FREE!
-✨ No coding required
-🎨 Fully customizable
-🌐 Get your own website link
-
-Try it now: https://github.com/End2EndAI/valentine-website-2025
-#ValentinesDay2025 #Love #WebDev #CodingWithLove
-```
-
-**Reddit (r/webdev, r/coding)**
-```
-[Project] 💝 Valentine's Website Generator - Free & Open Source
-
-I created a free, open-source Valentine's website generator that lets anyone create their own interactive Valentine's proposal website. No coding required!
-
-- 🎨 Fully customizable
-- 💝 Interactive elements
-- 🚀 Easy deployment
-- 📱 Mobile-friendly
-- 💯 Free forever
-
-Demo: https://end2endai.github.io/valentine-website-2025
-GitHub: https://github.com/End2EndAI/valentine-website-2025
-```
 
 ## ✨ Features
 - 💖 Floating hearts and bears
@@ -98,18 +59,18 @@ floatingEmojis: {
 // Questions and Buttons
 questions: {
     first: {
-        text: "Do you like me?",                   // First question
+        text: "do you like me?",                   // First question
         yesBtn: "Yes",                             // Yes button text
         noBtn: "No",                               // No button text
-        secretAnswer: "I don't like you, I love you! ❤️"  // Hidden message
+        secretAnswer: "i like you and i love you duhh <4"  // Hidden message
     },
     second: {
-        text: "How much do you love me?",          // Second question
+        text: "how much do you love me?",          // Second question
         startText: "This much!",                   // Text before percentage
         nextBtn: "Next ❤️"                         // Next button text
     },
     third: {
-        text: "Will you be my Valentine...?",      // Final question
+        text: "...will you be my Valentine?",      // Final question
         yesBtn: "Yes!",                            // Yes button text
         noBtn: "No"                                // No button text
     }
@@ -124,8 +85,8 @@ loveMessages: {
 
 // Final Celebration
 celebration: {
-    title: "Yay! I'm the luckiest person...",     // Celebration title
-    message: "Now come get your gift...",          // Celebration message
+    title: " LETS GO FIRST LOVE DAY TOGETHER",     // Celebration title
+    message: "your gift will be waitinf g",          // Celebration message
     emojis: "🎁💖🤗💝💋❤️💕"                        // Celebration emojis
 }
 

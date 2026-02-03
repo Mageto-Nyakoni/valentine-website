@@ -5,53 +5,53 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
+    valentineName: "Emily (a.k.a loml)",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "Will You Be My Valentine? 💘",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
-        bears: ['🧸', '🐻']                       // Cute bear emojis
+        hearts: ['♡', '🤍', '❤️‍🔥', '💗', '💓'],  // Heart emojis
+        bears: ['🦁', '🐢']                       // Cute bear emojis
     },
 
     // Questions and answers
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            text: "would you love me if i was a snail?",                                    // First interaction
+            yesBtn: "yes",                                             // Text for "Yes" button
+            noBtn: "no",                                               // Text for "No" button
+            secretAnswer: "Iidon't like you, i love you amateur :O"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            text: "on a scale of 3 to 35 how much do you love me?",                          // For the love meter
+            startText: "this much🤔",                                   // Text before the percentage
+            nextBtn: "next"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
-            noBtn: "No"                                                 // Text for "No" button
+            text: "will you please be my Valentine this year? 💐", // The big question!
+            yesBtn: "yes!",                                             // Text for "Yes" button
+            noBtn: "...no"                                                 // Text for "No" button
         }
     },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "WOOOOW You love me that much?? i love you that much too hehe 🥰🚀",  // Shows when they go past 5000%
+        high: "🥹",              // Shows when they go past 1000%
+        normal: "And beyond! :P"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "first love day with my lovely valentine<4444",
+        message: "that was a close one, phew! i'll see u soon mwah",
+        emojis: "💘😋🙂‍↕️😽🥰🥹❣️"  // These will bounce around
     },
 
     // Color scheme for the website
@@ -78,9 +78,9 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
-        startText: "🎵 Play Music",        // Button text to start music
-        stopText: "🔇 Stop Music",         // Button text to stop music
+        musicUrl: "https://res.cloudinary.com/dpyebxu3q/video/upload/v1770104930/love_you_anyway_-_the_mari%CC%81as_lyrics_vdesjr.mp3", // Music streaming URL
+        startText: "play that shiz!💃🏻🕺🏿",        // Button text to start music
+        stopText: "-- hollup 🫣",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
     }
 };
