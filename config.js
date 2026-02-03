@@ -22,10 +22,10 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "would you love me if i was a snail?",                                    // First interaction
+            text: "would you love me if i was a snail?🐌",                                    // First interaction
             yesBtn: "yes",                                             // Text for "Yes" button
             noBtn: "no",                                               // Text for "No" button
-            secretAnswer: "Iidon't like you, i love you amateur :O"           // Secret hover message
+            secretAnswer: "i'd love you and i like you duhh <4"           // Secret hover message
         },
         second: {
             text: "on a scale of 3 to 35 how much do you love me?",                          // For the love meter
@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "first love day with my lovely valentine<4444",
-        message: "that was a close one, phew! i'll see u soon mwah",
+        message: "that was a close one, phew! i'll see u soon, 4 dayssss mwah",
         emojis: "💘😋🙂‍↕️😽🥰🥹❣️"  // These will bounce around
     },
 
